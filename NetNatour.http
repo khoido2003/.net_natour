@@ -1,0 +1,6 @@
+@NetNatour_HostAddress = http://localhost:5218
+
+GET {{NetNatour_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
